@@ -41,14 +41,6 @@
 
 [谢谢这些人的☕️](./coffee.md)
 
-支付宝扫码大家一起领红包：
-
-<img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/alipay_hongbao.png" width="250" />
-
-或者直接转账：
-
-<img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/pay_wechat.jpg" width="250" /><img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/pay_ali.jpg" width="250" />
-
 
 # 问题集锦
     Q:没有得到原始文章url / 提示链接已经过期？
